@@ -7,4 +7,3 @@ dependencies:
   - vitabel
   - pandas
   - ipywidgets
-  - copy
